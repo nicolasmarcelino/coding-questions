@@ -1,0 +1,1 @@
+I want to solve coding questions. While we can come up with one solution using a specific language, what can we learn from attempting multiple solutions in different languages?
