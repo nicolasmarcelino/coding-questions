@@ -8,5 +8,5 @@ public static String eraseFrom(String str, String c) {
     }
 ```
 
-
-
+Excelent. A built-in function.
+According to the documentation, the type of the arguments are ```char``` and they're called ```oldChar``` and ```newChar```. The former refers to the character to be removed and the latter refers to the new character to replace it. However, as you can see, I can use strings, but the type of the arguments changes to ```CharSequence``` and their names become ```target``` and ```replacement```. To be clear, ```String``` is a class that implements the ```CharSequence``` interface.
